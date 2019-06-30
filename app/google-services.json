@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "229132221588",
+    "firebase_url": "https://mobioticspoc.firebaseio.com",
+    "project_id": "mobioticspoc",
+    "storage_bucket": "mobioticspoc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229132221588:android:1bf2fb45c0d37a13",
+        "android_client_info": {
+          "package_name": "com.aritra.mobioticspoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229132221588-6bhj79i0763d4mn26fq2fkbn4oriaksr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aritra.mobioticspoc",
+            "certificate_hash": "9b51c1c717d7e3266cfd4b66c1b4a0745059b3d2"
+          }
+        },
+        {
+          "client_id": "229132221588-5p0ej5h883haj7jliiot334km9ue9qj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqutkgeH-M10jtqoWsqqNscCem86PzCgw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229132221588-5p0ej5h883haj7jliiot334km9ue9qj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

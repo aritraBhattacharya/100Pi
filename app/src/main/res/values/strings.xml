@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MobioticsPOC</string>
+    <string name="default_web_client_id_android">229132221588-5p0ej5h883haj7jliiot334km9ue9qj9.apps.googleusercontent.com</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="video_title">Video Title</string>
+    <string name="video_description">Video Description</string>
+    <string name="related_videos">Related Videos...</string>
+    <string name="loading_video_dialog">Loading Currencies...</string>
+    <string name="no_videos_loaded">Network issue\nNo Cached data to show</string>
+    <string name="sign_in_failed">Google sign in failed</string>
+    <string name="loging_in">Logging in...</string>
+    <string name="sign_in_successful">signInWithCredential:success</string>
+    <string name="sign_in_failure">signInWithCredential:failure</string>
+    <string name="channel_name">mobioticschnl</string>
+    <string name="channel_description">mbchnl_desc</string>
+    <string name="list_of_currency_header">List of Currencies</string>
+    <string name="no_data_loaded">Oops! No currency data available locally. Kindly turn on internet and try to fetch again</string>
+    <string name="currency">Currency: </string>
+    <string name="currency_long">Currency Long: </string>
+    <string name="tx_free">TxFree: </string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="previous_btn_txt">Previous</string>
+    <string name="next_btn_txt">Next</string>
+    <string name="updating_pi_widget">updating PiWidget</string>
+    <string name="loading_data">loading data...</string>
+    <string name="loaded_from_disk_cache">Loaded from disk cache</string>
+</resources>

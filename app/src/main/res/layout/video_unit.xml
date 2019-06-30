@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_margin="5dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/row_bg">
+
+
+    <TextView
+        android:id="@+id/currency_text"
+        android:padding="8dp"
+        style="@style/VideoTitleStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:maxLines="1"
+        android:ellipsize="end"
+        android:hint="@string/video_title"/>
+
+    <TextView
+        android:id="@+id/currency_long_text"
+        style="@style/VideoDescStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:maxLines="2"
+        android:ellipsize="end"
+        android:hint="@string/video_description"/>
+
+
+    <TextView
+        android:id="@+id/txfree_text"
+        style="@style/VideoDescStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:maxLines="2"
+        android:ellipsize="end"
+        android:hint="@string/video_description"/>
+
+</LinearLayout>
